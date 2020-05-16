@@ -23,16 +23,16 @@ Es necesario usar una consola de comandos, y situarse dentro del directorio del 
 - ### Cargar dependencias
 Al momento de subir el api se omitieron las dependencias para hacer mas ligero el proyecto, pero son indispensables para que funcione. Debe usar el siguiente comando para instalarlas, ya que el script "packaje.json" ya tiene las dependencias y sus versiones.
 
-´´´
+```
 npm install
-´´´
+```
 
 - ### Correr api
 Para iniciar el api solo basta con usar el siguiente comando:
 
-´´´
+```
 npm start
-´´´
+```
 
 ## Despedida
 Esta api es con fines de aprendizaje.
